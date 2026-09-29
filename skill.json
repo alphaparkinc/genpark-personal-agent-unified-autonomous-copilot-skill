@@ -1,0 +1,28 @@
+{
+  "name": "genpark-personal-agent-unified-autonomous-copilot-skill",
+  "version": "1.0.0",
+  "description": "Master cognitive personal copilot integrating Today AI (agenda), Manus (autonomous sandbox), Cue (ambient cues), Instinct (fast reflex), and Muse (episodic memory).",
+  "category": "Service",
+  "author": "AlphaPark",
+  "tags": [
+    "personal-agent",
+    "unified-copilot",
+    "today-ai",
+    "manus-ai",
+    "mcp"
+  ],
+  "tools": [
+    {
+      "name": "process_personal_request",
+      "description": "Execute unified personal agent cognitive loop across all 5 engines."
+    },
+    {
+      "name": "get_copilot_telemetry",
+      "description": "Inspect status of all integrated cognitive subsystems."
+    },
+    {
+      "name": "run_unified_copilot_benchmark",
+      "description": "Run master unified personal copilot benchmark."
+    }
+  ]
+}
